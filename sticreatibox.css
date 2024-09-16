@@ -87,3 +87,10 @@ footer{
     font-style: normal;
     text-align: center; 
 }
+.contacto-p {
+    font-family: "lora", serif;
+    font-weight: 600;
+    font-style: normal;
+    text-align: center;
+    align-items: center;
+}
