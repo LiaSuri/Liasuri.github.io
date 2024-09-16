@@ -58,8 +58,8 @@ header{
     align-items: center;
     padding: 10px;
     display: flex;
-    max-width: 1000px;
-    margin: 1px;
+    margin: 0 200px;
+    justify-content:center;
 }
 .titulos{
     font-family: "lora", serif;
